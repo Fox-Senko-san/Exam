@@ -1,0 +1,10 @@
+C:\Users\WASD\Desktop\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\WASD\Desktop\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\WASD\Desktop\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\WASD\Desktop\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\WASD\Desktop\Exam\Exam\obj\Debug\Exam.mainForm.resources
+C:\Users\WASD\Desktop\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\WASD\Desktop\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\WASD\Desktop\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\WASD\Desktop\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\WASD\Desktop\Exam\Exam\obj\Debug\Exam.pdb
